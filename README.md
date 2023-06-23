@@ -12,4 +12,4 @@ paludettofelipe@gmail.com
 
 @felipepaludetto
 
-!(https://media.tenor.com/yvYyh_aS9esAAAAM/grilla-yes.gif)
+(https://media.tenor.com/yvYyh_aS9esAAAAM/grilla-yes.gif)
