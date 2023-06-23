@@ -1,6 +1,6 @@
 ###  Boas vindas ao meu perfil 💙
 
-meu nome  é Felipe Vieira Gomes
+Meu nome  é Felipe Vieira Gomes
 
 -  Estou estudando no {Alura}(https://www.alura.com.br)
 - Estou me desenvolvendo  na linguagem JavaScript
@@ -12,6 +12,4 @@ paludettofelipe@gmail.com
 
 @felipepaludetto
 
-!{}(https://media.tenor.com/yvYyh_aS9esAAAAM/grilla-yes.gif)
-
-
+!(https://media.tenor.com/yvYyh_aS9esAAAAM/grilla-yes.gif)
