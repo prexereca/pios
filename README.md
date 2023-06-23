@@ -10,7 +10,7 @@ meu nome  é Felipe Vieira Gomes
 
 paludettofelipe@gmail.com
 
-@felipe.vieira.gomes
+@felipepaludetto
 
 !{}(https://media.tenor.com/yvYyh_aS9esAAAAM/grilla-yes.gif)
 
