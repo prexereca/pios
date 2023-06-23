@@ -8,7 +8,7 @@ meu nome  é Felipe Vieira Gomes
 
 ### Você  entar em contato comigo 📫
 
-pluttedefelipe@gmail.com
+paludettofelipe@gmail.com
 
 @felipe.vieira.gomes
 
